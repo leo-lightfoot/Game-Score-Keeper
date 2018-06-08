@@ -1,0 +1,39 @@
+body{
+	background-color: #89898c;
+}
+
+.win{
+	color: #040172;
+}
+
+.main{
+	text-align: center;
+	max-width: 500px;
+	margin: auto;
+}
+h1{
+	font-size: 10em;
+	}
+
+h3{
+	font-family: "Arial";
+	font-size: 250%;
+	padding-bottom: 30px;
+}
+.inputfield{
+	font-size: 150%;
+}
+.buttons{
+	height: 50px;
+	width: 150px;
+	font-size: 150%;
+	background-color: #eda155;
+}
+
+#p1{
+	color:#8e0202;
+
+}
+#p2{
+	color: #198c02;
+}
