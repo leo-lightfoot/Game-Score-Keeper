@@ -7,7 +7,7 @@ var numinput = document.querySelector("input");
 var winscore = document.querySelector("h3 span");
 var p1score=0; 
 var p2score=0;
-var winningscore = 5;
+var winningscore = 5;  
 var gameover= false;
 
 p1button.addEventListener("click", function(){
